@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Uri4-78/Memory-Game/static/css/main.5de3d678.css",
+    "main.js": "/Uri4-78/Memory-Game/static/js/main.2bc4ad9c.js",
+    "index.html": "/Uri4-78/Memory-Game/index.html",
+    "main.5de3d678.css.map": "/Uri4-78/Memory-Game/static/css/main.5de3d678.css.map",
+    "main.2bc4ad9c.js.map": "/Uri4-78/Memory-Game/static/js/main.2bc4ad9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5de3d678.css",
+    "static/js/main.2bc4ad9c.js"
+  ]
+}
