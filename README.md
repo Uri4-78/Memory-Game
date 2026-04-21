@@ -3,7 +3,7 @@
 Добро пожаловать в увлекательную игру "Memory Game"! 🧠✨ Проверьте свою память и внимание, находя пары одинаковых карточек в этой классической головоломке.
 
 [![React](https://img.shields.io/badge/React-v18.2.0-blue)](https://react.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ItLogia React-Project
 
 ## 🔗 Демонстрация
 
